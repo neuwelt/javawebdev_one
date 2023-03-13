@@ -2,8 +2,8 @@
 Simple web app in Java using Spring Boot and Gradle
 
 
- ** SIMPLE PHONE BOOK
- * 
+## SIMPLE PHONE BOOK
+ 
  * Using:
  * >Java 17
  * > Spring Boot Framework
