@@ -1,6 +1,6 @@
 ## SIMPLE PHONE BOOK
 
-# Simple web app in Java using Spring Boot and Gradle
+### Simple web app in Java using Spring Boot and Gradle
  
  * Using:
  * >Java 17
