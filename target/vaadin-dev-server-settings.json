@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "E:/Augsburg/2 semester/dev-projects/webdev_one/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "E:/Augsburg/2 semester/dev-projects/webdev_one/./frontend/generated/jar-resources",
+  "staticOutput": "E:/Augsburg/2 semester/dev-projects/webdev_one/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "E:\\Augsburg\\2 semester\\dev-projects\\webdev_one\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "E:\\Augsburg\\2 semester\\dev-projects\\webdev_one\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "E:/Augsburg/2 semester/dev-projects/webdev_one/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "E:/Augsburg/2 semester/dev-projects/webdev_one/src/main/dev-bundle/config",
+  "jarResourcesFolder": "E:/Augsburg/2 semester/dev-projects/webdev_one/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "E:\\Augsburg\\2 semester\\dev-projects\\webdev_one\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
