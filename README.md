@@ -1,8 +1,6 @@
-# javawebdev_one
-Simple web app in Java using Spring Boot and Gradle
-
-
 ## SIMPLE PHONE BOOK
+
+# Simple web app in Java using Spring Boot and Gradle
  
  * Using:
  * >Java 17
